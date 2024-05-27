@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Est",Toonami Aftermath Est
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Pst",Toonami Aftermath Pst
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="Toonami Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
